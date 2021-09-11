@@ -1,4 +1,3 @@
-import inspect
 from os import getenv
 from asyncio import sleep
 from math import ceil
@@ -56,6 +55,7 @@ async def play(ctx):
                 await voice_client.disconnect()
 
         else:
+            # bot is already in a voice channel playing a voice line
             await ctx.reply("GAH! i'm currently in a voice channel. Try your command again in a moment citizen. ")
 
 
