@@ -26,3 +26,6 @@ a discord bot that comes into your voice channel and will recite oblivion npc di
 
 ## Deployment
 this bot is deployed on pythonanywhere.com
+
+### If you want this bot on your server...
+send me an email and i'll send you an OAuth2 link so you can add it! That's the temporary solution until I put it on a discord bot listing site
