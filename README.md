@@ -8,10 +8,21 @@ a discord bot that comes into your voice channel and will recite oblivion npc di
  
 
 ## Current Progress
-* bot responds to '>text' which writes a hardcoded npc dialogue line in the `bot-commands` channel
-* bot responds to '>speak' which joins your current voice channel, recites an npc dialogue line, and leaves the voice channel
+* bot responds to '>text' command which writes a hardcoded npc dialogue line
+* bot responds to '>speak' command which makes the bot join your current voice channel, recite an npc dialogue line of your choice, and leaves the voice channel
+* bot responds to '>help' command
 
-## Demo of '>speak' command
+##Demos
+### \>help 
+![help_no_args.png](./assets/pics/help_no_args.png)
+
+### \>help speak 
+![help_speak.png](./assets/pics/help_speak.png)
+
+# 
+## \>speak  (random voiceline option)
 [![video thumbnail](./assets/pics/vid_pic.png)](https://www.youtube.com/watch?v=05AXXhTMg9g)
 
 
+## Deployment
+this bot is deployed on pythonanywhere.com
