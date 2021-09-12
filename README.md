@@ -12,7 +12,7 @@ a discord bot that comes into your voice channel and will recite oblivion npc di
 * bot responds to '>speak' command which makes the bot join your current voice channel, recite an npc dialogue line of your choice, and leaves the voice channel
 * bot responds to '>help' command
 
-##Demos
+## Demos
 ### \>help 
 ![help_no_args.png](./assets/pics/help_no_args.png)
 
